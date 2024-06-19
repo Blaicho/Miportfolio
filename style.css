@@ -2,10 +2,18 @@ header{
     text-align: center;
 }
 *{
+    text-decoration: underline;
     color: white;
     background-color: black;
     font-weight: bold;
 }
+#habilidades ul li {
+    display: incline-block;
+    padding: 5px;
+    border: 2px solid;
+    border-radius: 20px;
+    margin-radius: 15px;
+    
 table {
     width: 50%;
     border-collapse: collapse;
