@@ -1,0 +1,27 @@
+header{
+    text-align: center;
+}
+*{
+    color: white;
+    background-color: black;
+    font-weight: bold;
+}
+table {
+    width: 50%;
+    border-collapse: collapse;
+    margin-top: 10px;
+    text-align: center;
+  }
+  th, td {
+    color: #ffffff;
+    border: 1px solid #ffffff;
+    padding: 12px;
+  }
+  
+  th {
+    background-color: #121212;
+  }
+  
+  tr:hover {
+    background-color: #2c2c2c;
+  }
